@@ -1,0 +1,23 @@
+{
+  "name": "alexa-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagartyagi121/alexa-skills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagartyagi121/alexa-skills/issues"
+  },
+  "homepage": "https://github.com/sagartyagi121/alexa-skills#readme",
+  "dependencies": {
+    "ask-sdk": "^2.12.1"
+  }
+}
